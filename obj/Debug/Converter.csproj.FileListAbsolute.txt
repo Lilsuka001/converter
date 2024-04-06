@@ -1,0 +1,10 @@
+C:\Users\bonjo\Desktop\CurrencyConverter_1.0-master\Converter\bin\Debug\Converter.exe.config
+C:\Users\bonjo\Desktop\CurrencyConverter_1.0-master\Converter\bin\Debug\Converter.exe
+C:\Users\bonjo\Desktop\CurrencyConverter_1.0-master\Converter\bin\Debug\Converter.pdb
+C:\Users\bonjo\Desktop\CurrencyConverter_1.0-master\Converter\obj\Debug\Converter.csproj.AssemblyReference.cache
+C:\Users\bonjo\Desktop\CurrencyConverter_1.0-master\Converter\obj\Debug\Converter.Converter_form.resources
+C:\Users\bonjo\Desktop\CurrencyConverter_1.0-master\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\bonjo\Desktop\CurrencyConverter_1.0-master\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+C:\Users\bonjo\Desktop\CurrencyConverter_1.0-master\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\bonjo\Desktop\CurrencyConverter_1.0-master\Converter\obj\Debug\Converter.exe
+C:\Users\bonjo\Desktop\CurrencyConverter_1.0-master\Converter\obj\Debug\Converter.pdb
